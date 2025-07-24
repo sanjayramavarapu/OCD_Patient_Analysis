@@ -1,2 +1,2 @@
 # OCD_Patient_Analysis
-Prediction of severity of OCD by analysing symptoms
+A mental health tool that predicts the severity of OCD by analyzing user-reported symptoms for timely and personalized insights. 🧠📊
